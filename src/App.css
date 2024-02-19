@@ -1,10 +1,17 @@
 .App {
   text-align: center;
+  display: inline-grid;
 }
 
 .App-logo {
   height: 40vmin;
   pointer-events: none;
+}
+.ImageFol{
+  /* display: inline-block;
+  vertical-align: top; */
+  padding: 30px;
+  
 }
 
 @media (prefers-reduced-motion: no-preference) {
